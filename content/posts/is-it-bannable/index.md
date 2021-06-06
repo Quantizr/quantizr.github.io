@@ -1,8 +1,8 @@
 ---
 title: "Secret Waypoints - Are they bannable?"
-summary: This mod follows the general interpretation of Hypixel's rules, and is most likely **not bannable** but as with all mods, it is use at your own risk. More details in full post.
+summary: Dungeon Rooms Mod's Secret Waypoints follows the general interpretation of Hypixel's rules, and is most likely **not bannable**, but as with all mods, it is use at your own risk. More details in full post.
 aliases: ["/bannable"]
-weight: 1
+weight: 2
 ---
 
 ## Overview/TL;DR
@@ -57,6 +57,7 @@ weight: 1
 
  This is incredibly similar to what Dungeon Rooms Mod's Secret Waypoints do. The Secret Waypoints dynamically check what room a player is in, then display the corresponding waypoints for that room, with the waypoints disappearing when the secrets are clicked.
 
+ Since Fairy Soul Waypoints have been confirmed confirmed as allowed, and since the Secret Waypoints in Dungeon Rooms Mod share many characteristics with Fairy Soul Waypoints, it follows that Dungeon Rooms Mod should also be allowed.
 
 
 ## Fr0z3n's QoL Modifications Guidelines
