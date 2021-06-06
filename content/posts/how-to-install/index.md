@@ -1,12 +1,12 @@
 ---
 title: "Dungeon Rooms Mod - Installation Guide"
-summary: Dungeon Rooms Mod can be installed in the same way as other Forge mods, by dragging the mod jar into the mod folder. Read this tutorial if you don't understand how to do this.
+summary: This mod can be installed in the same way as other Forge mods, by dragging the mod jar into the mod folder. Read this tutorial if you don't understand how to do this. And no, you cannot use Forge mods with Badlion or Lunar Client 🤡.
 aliases: ["/install"]
 weight: 1
 ---
 
 ## Intro
- Dungeon Rooms Mod can be installed in the same way as other Forge mods, by dragging the mod jar into the mod folder.
+ Dungeon Rooms Mod can be installed in the same way as other Forge mods, by dragging the mod jar into the mod folder. And no, you cannot use this mod with Badlion or Lunar client.
  
  Follow this guide if you do not understand how to do install the mod. This guide assumes you are using the default Minecraft launcher. If you are using a custom launcher such as MultiMC or ATLauncher, I assume you already know how to install mods. (If you don't know what those two launchers are, don't worry, this doesn't apply to you.)
  

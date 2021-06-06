@@ -1,6 +1,6 @@
 ---
 title: "Secret Waypoints - Are they bannable?"
-summary: Dungeon Rooms Mod's Secret Waypoints follows the general interpretation of Hypixel's rules, and is most likely **not bannable**, but as with all mods, it is use at your own risk. More details in full post.
+summary: Dungeon Rooms Mod's Secret Waypoints follows the general interpretation of Hypixel's rules, and is most likely **not bannable**, but as with all mods, it is use at your own risk. Read the full post for more details.
 aliases: ["/bannable"]
 weight: 2
 ---
