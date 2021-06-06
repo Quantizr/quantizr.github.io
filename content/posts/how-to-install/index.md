@@ -23,17 +23,17 @@ weight: 1
 
  Click Installer (either Recommended or Latest is fine, they're the same file for 1.8.9) to download Forge.
 
- You will get an an adwall, ignore the ad and press the red "Skip" button in the top right.
+ You will get an adwall, ignore the ad and press the red "Skip" button in the top right.
  ![adwall](images/adwall.png)
 
- You will download a file named `forge-1.8.9-11.15.1.2318-1.8.9-installer.jar`, once it has finished downloading, run the file. You will see a new window popup called "Mod system installer", make sure "Install client" is the selected option and press "OK"
+ You will download a file named `forge-1.8.9-11.15.1.2318-1.8.9-installer.jar`, once it has finished downloading, run the file. You will see a new window popup called "Mod system installer", make sure "Install client" is the selected option and press "OK".
 
  ![forge installer](images/forgeinstaller.png)
 
- Then, load up the Minecraft launcher. You will hopefully see a new profile named forge on the left side of the play button.
+ Then, load up the Minecraft launcher. You will hopefully see a new profile named "forge" on the left side of the play button.
  ![launcher](images/launcher1.png)
 
- If the new profile des not exist do the following. Press the "Installations" tab near the top of the launcher, followed by the button that says "New installation." You will open a new menu, from there select the dropdown menu underneath version and select `release 1.8.9-forge1.8.9-11.15.1.2318-1.8.9` (it might be at the very bottom of the dropdown menu).
+ If the new profile does not exist, do the following. Press the "Installations" tab near the top of the launcher, followed by the button that says "New installation." You will open a new menu, from there, select the dropdown menu underneath "VERSION" and select `release 1.8.9-forge1.8.9-11.15.1.2318-1.8.9` (it might be at the very bottom of the dropdown menu).
  ![newinstallation](images/newinstallation.png)
 
  Give your installation a name and press "Create".
