@@ -33,7 +33,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "A Forge mod addding Secret Waypoints to Skyblock Dungeons"
-    author: _risk (Quantizr)
+    # author: _risk (Quantizr)
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: dark
@@ -65,9 +65,9 @@ params:
     homeInfoParams:
         Title: "Dungeon Rooms Mod"
         Content: >
-            **Welcome to half-finished website for the Dungeon Rooms Mod!**
+            **Welcome to the official website for the Dungeon Rooms Mod!**
             <br>
-            Important links are below:
+            Important links are below: (downloads are in the Discord)
 
     socialIcons:
         - name: Discord

@@ -21,8 +21,8 @@ weight: 2
  - This mod is not an ESP, meaning it does not directly scan for secrets. The mod places secret waypoints is based on a set of static coordinates for each room. The mod then calculates a corner of that room and makes that the origin point, then does some mathematical magic to convert the relative coordinates into the actual coordinates where the waypoints are placed.  
  The list of static coordinates which the mod uses to place waypoints is available [at this link](https://github.com/Quantizr/DungeonRoomsMod/blob/main/src/main/resources/assets/dungeonrooms/secretlocations.json).
 
- - This mod does not modify packets in anyway, and is completely undetectable to Watchdog. There are exactly two ways the admins could ban a player for using this mod, if they do deem it disallowed (unlikely).  
- **I would like to reiterate that it is highly unlikely that the admins would do these two things without warning**
+ - This mod does not modify packets in any way, and is completely undetectable to Watchdog. There are exactly two ways the admins could ban a player for using this mod, if they do deem it disallowed (unlikely).  
+ **I would like to reiterate that it is highly unlikely the admins would do these two things without warning.**
    1. If you stream, record, or otherwise screenshare yourself playing with waypoints enabled.
    2. If the admins blacklist the mod ID. Whenever a player using Forge mods connects to a server, it sends the server a list of the mods they are using, including Dungeon Rooms Mod. If the admins choose, they can ban anyone connecting to the server with a certain mod ID (this is how they security banned players using JED). IMO, it would be very irresponsible of the admins to do so, because players using v1 of this mod have the same mod ID but no Secret Waypoints, but would also be banned in the same group.  
 
@@ -57,7 +57,7 @@ weight: 2
 
  This is incredibly similar to what Dungeon Rooms Mod's Secret Waypoints do. The Secret Waypoints dynamically check what room a player is in, then display the corresponding waypoints for that room, with the waypoints disappearing when the secrets are clicked.
 
- Since Fairy Soul Waypoints have been confirmed confirmed as allowed, and since the Secret Waypoints in Dungeon Rooms Mod share many characteristics with Fairy Soul Waypoints, it follows that Dungeon Rooms Mod should also be allowed.
+ Since Fairy Soul Waypoints have been confirmed as allowed, and since the Secret Waypoints in Dungeon Rooms Mod share many characteristics with Fairy Soul Waypoints, it follows that Dungeon Rooms Mod should also be allowed.
 
 
 ## Fr0z3n's QoL Modifications Guidelines
