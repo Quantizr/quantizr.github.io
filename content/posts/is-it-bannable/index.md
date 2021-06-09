@@ -1,6 +1,6 @@
 ---
 title: "Secret Waypoints - Are they bannable?"
-summary: Dungeon Rooms Mod's Secret Waypoints follows the general interpretation of Hypixel's rules, and is most likely **not bannable**, but as with all mods, it is use at your own risk. Read the full post for more details.
+summary: Dungeon Rooms Mod's Secret Waypoints follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is most likely **not bannable**, but as with all mods, it is use at your own risk. Read the full post for more details.
 aliases: ["/bannable"]
 weight: 2
 ---
@@ -8,6 +8,7 @@ weight: 2
 ## Overview/TL;DR
  Secret Waypoints for Hypixel Skyblock Dungeons have been added into Dungeon Rooms Mod with the release v2.0.0 on June 11th, 2021.
  - Based on the general interpretation of Hypixel's rules, the Dungeon Rooms Mod's Secret Waypoints are **not** bannable
+ - This mod does not modify packets in any way, so it is not detectable other than sending the mod ID to the server at login (all Forge mods do this)
  - As with all mods on the Hypixel network, this mod is still use at your own risk
  - There are some people who interpret the rules differently, and believe this mod should be disallowed
  
@@ -101,7 +102,7 @@ weight: 2
 
  It was originally more straightforward to implement top of the map scanning for room detection. However, there is a relatively easy way to do room detection without scanning the top of the map. It would take about two weeks to implement, but would result in **no** noticeable difference to the player. 
 
- **Does it really matter where the mod scans for blocks if it doesn't affect the end result?**
+ **Does it really matter where the mod scans for blocks if it doesn't affect the end result?** Like seriously, I could spend two weeks of my time recoding the mod to not scan the top of the room and only use visible blocks, but, unless a player looks at the code, they literally wouldn't be able to tell the difference.
 
 
 ## Summary

@@ -32,7 +32,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "A Forge mod addding Secret Waypoints to Skyblock Dungeons"
+    description: "A Forge mod adding Secret Waypoints to Skyblock Dungeons"
     # author: _risk (Quantizr)
     # author: ["Me", "You"] # multiple authors
 
@@ -78,7 +78,7 @@ params:
           url: "https://ko-fi.com/Quantizr"
 
     editPost:
-        URL: "https://github.com/Quantizr/quantizr.github.io/content"
+        URL: "https://github.com/Quantizr/quantizr.github.io/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

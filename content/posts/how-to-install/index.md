@@ -1,6 +1,6 @@
 ---
 title: "Dungeon Rooms Mod - Installation Guide"
-summary: This mod can be installed in the same way as other Forge mods, by dragging the mod jar into the mod folder. Read this tutorial if you don't understand how to do this. And no, you cannot use Forge mods with Badlion or Lunar Client 🤡.
+summary: This mod can be installed in the same way as other Forge mods - by dragging the mod jar into the mod folder. Read this tutorial if you don't understand how to do this. And no, you cannot use Forge mods with Badlion or Lunar Client 🤡.
 aliases: ["/install"]
 weight: 1
 ---
