@@ -2,7 +2,26 @@
 title: "Secret Waypoints - Are they bannable?"
 summary: Dungeon Rooms Mod's Secret Waypoints follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is most likely **not bannable**, but as with all mods, it is use at your own risk. Read the full post for more details.
 aliases: ["/bannable"]
-weight: 2
+weight: 3
+---
+
+## Dungeon Rooms Mod v3.0
+ **The rest of this article was written for Dungeon Rooms Mod v2.x, and is outdated.** The general idea represented in the article remains. The main change with 3.0 is that non-visible blocks are not accessed at all by the mod, making the mod even less of a risk than before. Dungeon Rooms Mod v3.0 follows all the rules of the Hypixel network. It is worth noting that out of the 20k+ people who used Dungeon Rooms Mod v2.x, not a single one has been banned because of this mod.
+
+ The only rule where this mod lies in a gray area is the unfair advantage rule. However, what this mod does is essentially what your brain does when it enters a dungeon room. Your eyes see different blocks in the map, and your brain compares them with rooms you already know. Once your brain figures out what room you're in, assuming you've memorized secrets, your brain can then tell you where the secrets are. This is what this mod does in code form. Unlike other solvers, such as experimentation table solvers (>99% of humans cannot memorize the entire pattern of the experimentation table), memorizing and finding secrets is not beyond the ability of the average human, so comparatively, this mod arguably does not provide an unfair advantage over the average player.
+
+ If you still believe that secret waypoints are an unfair advantage, you can always disable them and view secret images instead (default hotkey for images is "O" as in Open). 
+
+ Feel free to read the old arguments, as many of them still apply. Just ignore anything involving block scanning since Dungeon Rooms Mod v3.0 only scans blocks within a player's FOV, which is 100% allowed.
+
+---
+
+ **Dungeon Rooms Mod Links:**
+
+ Discord: https://discord.gg/kr2M7WutgJ
+
+ Github: https://github.com/Quantizr/DungeonRoomsMod
+
 ---
 
 ## Overview/TL;DR
@@ -10,7 +29,7 @@ weight: 2
  - Based on the general interpretation of Hypixel's rules, the Dungeon Rooms Mod's Secret Waypoints are **not** bannable
  - This mod does not modify packets in any way, so it is not detectable other than sending the mod ID to the server at login (all Forge mods do this)
  - As with all mods on the Hypixel network, this mod is still use at your own risk
- - There are some people who interpret the rules differently, and believe this mod should be disallowed
+ - There are some who interpret the rules differently and believe that waypoints are an unfair advantage.
  
  _Note to admins: If there are any Hypixel admins reading this who disagree with my interpretation, please message my Discord \_risk#2091, or my forums account, so we can discuss._
 
@@ -74,7 +93,7 @@ weight: 2
 
 
 ## ThirtyVirus and Badlion Client Dev's Opinions
- On May 29, 2021, ThirtyVirus did a stream titled "the LAST time I will be bad at dungeons", in which he expressed his wishes for Secret Waypoints. As ThirtyVirus gets payed good money from Badlion, he is obligated to hate Forge mods such as this one, so he suggested to the Badlion devs that they add Secret Waypoints. ThirtyVirus then reads a conversation between Badlion Devs regarding whether Secret Waypoints would be allowed, which is clipped [here](https://youtube.com/clip/UgxRUOo-C8eLMbiq3tl4AaABCQ).  
+ On May 29, 2021, ThirtyVirus did a stream titled "the LAST time I will be bad at dungeons", in which he expressed his wishes for Secret Waypoints. As ThirtyVirus gets paid good money from Badlion, he is obligated to hate Forge mods such as this one, so he suggested to the Badlion devs that they add Secret Waypoints. ThirtyVirus then reads a conversation between Badlion Devs regarding whether Secret Waypoints would be allowed, which is clipped [here](https://youtube.com/clip/UgxRUOo-C8eLMbiq3tl4AaABCQ).  
  Transcript:
  > Badlion Dev 1: it [Secret Waypoints] is allowed  
  Badlion Dev 2: all the highlighting stuff and showing where to go?  
@@ -108,7 +127,7 @@ weight: 2
 ## Summary
  Again, as with all mods on Hypixel, Dungeon Rooms Mod is use at your own risk. But, based on everything listed above, the Secret Waypoints within the Dungeon Rooms Mod are most likely **not** bannable.
 
- ---
+---
 
  **Dungeon Rooms Mod Links:**
 
