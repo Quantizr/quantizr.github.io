@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>Dungeon Rooms Mod v3.0 - How does it work?</title>
+      <link>https://quantizr.github.io/posts/how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://quantizr.github.io/posts/how-it-works/</guid>
+      <description>DRM v3.0 entirely relies on a combination of raytracing (to get visible blocks within FOV), the hotbar map, the player&amp;rsquo;s coordinates, and a ton of math to detect rooms and place waypoints. Read the full post for more details.</description>
+    </item>
+    
+    <item>
       <title>Secret Waypoints - Are they bannable?</title>
       <link>https://quantizr.github.io/posts/is-it-bannable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
