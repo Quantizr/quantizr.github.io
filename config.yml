@@ -67,7 +67,9 @@ params:
         Content: >
             **Welcome to the official website for the Dungeon Rooms Mod!**
             <br>
-            Important links are below: (downloads are in the Discord)
+            Download: https://github.com/Quantizr/DungeonRoomsMod/releases
+            <br>
+            Other important links are below:
 
     socialIcons:
         - name: Discord
